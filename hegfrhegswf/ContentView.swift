@@ -15,13 +15,12 @@ struct ContentView: View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
-                .foregroundColor(.accentColor)
+                .foregroundColor(.blue)
+            
             Text("Hello, worewuytryuew3tryteqwld!")
-=======
                 .foregroundColor(.blue)
             
             Text("Hello, worewuytryuew3tfrewghfrtegwftweghrhjktgfwehfthqwegrfhjgqakdhjgfhjkAGDSZhgacfvryteqwld!")
->>>>>>> Stashed changes
         }
         .padding()
     }
