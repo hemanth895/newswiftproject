@@ -14,6 +14,7 @@
 		F7B10E992AA5F5F80045D633 /* hegfrhegswfTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B10E982AA5F5F80045D633 /* hegfrhegswfTests.swift */; };
 		F7B10EA32AA5F5F80045D633 /* hegfrhegswfUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B10EA22AA5F5F80045D633 /* hegfrhegswfUITests.swift */; };
 		F7B10EA52AA5F5F80045D633 /* hegfrhegswfUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B10EA42AA5F5F80045D633 /* hegfrhegswfUITestsLaunchTests.swift */; };
+		F7B10EB22AA5F7EB0045D633 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B10EB12AA5F7EB0045D633 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		F7B10E9E2AA5F5F80045D633 /* hegfrhegswfUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hegfrhegswfUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7B10EA22AA5F5F80045D633 /* hegfrhegswfUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hegfrhegswfUITests.swift; sourceTree = "<group>"; };
 		F7B10EA42AA5F5F80045D633 /* hegfrhegswfUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hegfrhegswfUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F7B10EB12AA5F7EB0045D633 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				F7B10E862AA5F5F70045D633 /* hegfrhegswfApp.swift */,
 				F7B10E882AA5F5F70045D633 /* ContentView.swift */,
+				F7B10EB12AA5F7EB0045D633 /* SwiftUIView.swift */,
 				F7B10E8A2AA5F5F80045D633 /* Assets.xcassets */,
 				F7B10E8C2AA5F5F80045D633 /* hegfrhegswf.entitlements */,
 				F7B10E8D2AA5F5F80045D633 /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				F7B10E892AA5F5F70045D633 /* ContentView.swift in Sources */,
 				F7B10E872AA5F5F70045D633 /* hegfrhegswfApp.swift in Sources */,
+				F7B10EB22AA5F7EB0045D633 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
