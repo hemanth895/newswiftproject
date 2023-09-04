@@ -17,11 +17,9 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello, worewuytryuew3tryteqwld!")
-=======
                 .foregroundColor(.blue)
             
             Text("Hello, worewuytryuew3tfrewghfrtegwftweghrhjktgfwehfthqwegrfhjgqakdhjgfhjkAGDSZhgacfvryteqwld!")
->>>>>>> Stashed changes
         }
         .padding()
     }
